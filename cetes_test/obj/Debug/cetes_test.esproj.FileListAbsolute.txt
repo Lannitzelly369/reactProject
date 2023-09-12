@@ -1,0 +1,2 @@
+C:\Users\lanni\source\repos\cetes_test\cetes_test\obj\Debug\cetes_test.esproj.SuggestedBindingRedirects.cache
+C:\Users\lanni\source\repos\cetes_test\cetes_test\obj\Debug\cetes_test.esproj.CoreCompileInputs.cache

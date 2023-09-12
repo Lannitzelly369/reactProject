@@ -1,0 +1,48 @@
+
+/*======================================================================*
+    Made Future X Light
+*======================================================================*/
+@font-face {
+    font-family: 'Made-Future-X-Light';
+    src: url('../fonts/MadeFuture/Light/MADEFutureX-Light.eot');
+    src: url('../fonts/MadeFuture/Light/MADEFutureX-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MadeFuture/Light/MADEFutureX-Light.woff2') format('woff2'),
+        url('../fonts/MadeFuture/Light/MADEFutureX-Light.woff') format('woff'),
+        url('../fonts/MadeFuture/Light/MADEFutureX-Light.ttf') format('truetype'),
+        url('../fonts/MadeFuture/Light/MADEFutureX-Light.svg#MADEFutureX-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*======================================================================*
+    Made Future X Thin
+*======================================================================*/
+@font-face {
+    font-family: 'Made-Future-X-Thin';
+    src: url('../fonts/MadeFuture/Thin/MADEFutureX-Thin.eot');
+    src: url('../fonts/MadeFuture/Thin/MADEFutureX-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MadeFuture/Thin/MADEFutureX-Thin.woff2') format('woff2'),
+        url('../fonts/MadeFuture/Thin/MADEFutureX-Thin.woff') format('woff'),
+        url('../fonts/MadeFuture/Thin/MADEFutureX-Thin.ttf') format('truetype'),
+        url('../fonts/MadeFuture/Thin/MADEFutureX-Thin.svg#MADEFutureX-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*======================================================================*
+    Made Future X Regular
+*======================================================================*/
+@font-face {
+    font-family: 'Made-Future-X-Regular';
+    src: url('../fonts/MadeFuture/Regular/MADEFutureX.eot');
+    src: url('../fonts/MadeFuture/Regular/MADEFutureX.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MadeFuture/Regular/MADEFutureX.woff2') format('woff2'),
+        url('../fonts/MadeFuture/Regular/MADEFutureX.woff') format('woff'),
+        url('../fonts/MadeFuture/Regular/MADEFutureX.ttf') format('truetype'),
+        url('../fonts/MadeFuture/Regular/MADEFutureX.svg#MADEFutureX') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
